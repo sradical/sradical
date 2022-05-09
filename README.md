@@ -1,5 +1,4 @@
-### Hello World!
-
+### We are surrounded by data and my passion is to harness its power with analytics and machine learning techniques to gain an understanding of our world.
 <!--
 **sradical/sradical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
